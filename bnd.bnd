@@ -1,0 +1,3 @@
+Bundle-Name: scheduler-example
+Bundle-SymbolicName: com.sohlman.liferay.examples.scheduler
+Bundle-Version: 1.0.0
